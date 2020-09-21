@@ -1,6 +1,7 @@
 public class Login{
 
 public static void main (string []args){
-	Anil a =new Anil
+	Anil a =new Anil()
+		a.sunil
 }
 }
